@@ -1,0 +1,12 @@
+name: "Dr Shiva Raj Mishra"
+output_dir: "."
+navbar:
+  type: default
+  title: "Shiva Raj Mishra"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: readable
+    css: styles.css
